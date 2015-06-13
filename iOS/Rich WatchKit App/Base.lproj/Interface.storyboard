@@ -10,7 +10,7 @@
             <objects>
                 <controller id="AgC-eL-Hgc" customClass="InterfaceController" customModule="Rich_WatchKit_App" customModuleProvider="target">
                     <items>
-                        <label width="1" height="1" alignment="left" text="R$CH" textAlignment="center" id="9bu-UB-u2u">
+                        <label width="1" height="1" alignment="left" text="I AM RICH" textAlignment="center" numberOfLines="2" id="9bu-UB-u2u">
                             <fontDescription key="font" type="boldSystem" pointSize="47"/>
                         </label>
                     </items>
@@ -23,8 +23,8 @@
             <objects>
                 <glanceController spacing="0.0" topTemplateType="extraLarge" bottomTemplateType="extraLargeExtraLargeFooter" id="Sv0-Ai-Zie" customClass="GlanceController" customModule="Rich_WatchKit_App" customModuleProvider="target">
                     <items>
-                        <label alignment="left" text="YOU" minimumScaleFactor="0.5" id="dop-CY-Yp7"/>
-                        <label alignment="left" text="ARE" minimumScaleFactor="0.5" id="38u-HE-WJQ"/>
+                        <label alignment="left" text="I" minimumScaleFactor="0.5" id="dop-CY-Yp7"/>
+                        <label alignment="left" text="AM" minimumScaleFactor="0.5" id="38u-HE-WJQ"/>
                         <label alignment="left" text="R$CH" minimumScaleFactor="0.5" id="uif-VB-eVd"/>
                         <label alignment="left" hidden="YES" id="B9P-IF-1Th"/>
                     </items>

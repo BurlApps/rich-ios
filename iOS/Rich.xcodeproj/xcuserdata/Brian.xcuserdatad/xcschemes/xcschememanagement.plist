@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Glance - Rich WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Rich WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Rich.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>D37197101B2CCDC7000BDDA0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D37197251B2CCDC7000BDDA0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D37197551B2CDD30000BDDA0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D371977F1B2CE50B000BDDA0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D37197A41B2CE599000BDDA0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

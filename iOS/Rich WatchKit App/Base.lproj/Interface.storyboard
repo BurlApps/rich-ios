@@ -8,25 +8,43 @@
         <!--Interface Controller-->
         <scene sceneID="aou-V4-d1y">
             <objects>
-                <controller id="AgC-eL-Hgc" customClass="InterfaceController" customModule="Rich_WatchKit_App" customModuleProvider="target">
+                <controller id="AgC-eL-Hgc" customClass="InterfaceController" customModule="RICH_WatchKit_App" customModuleProvider="target">
                     <items>
-                        <label width="1" height="1" alignment="left" text="I AM RICH" textAlignment="center" numberOfLines="2" id="9bu-UB-u2u">
-                            <fontDescription key="font" type="boldSystem" pointSize="47"/>
+                        <label width="1" height="1" alignment="left" text="AM I R$CH?" textAlignment="center" numberOfLines="2" id="xsm-FW-K9m">
+                            <fontDescription key="font" type="boldSystem" pointSize="40"/>
                         </label>
                     </items>
+                    <connections>
+                        <segue destination="iP1-PL-kME" kind="relationship" relationship="nextPage" id="qMP-dQ-N8h"/>
+                    </connections>
                 </controller>
             </objects>
             <point key="canvasLocation" x="164" y="217"/>
         </scene>
+        <!--Interface Controller-->
+        <scene sceneID="aZY-7m-TMN">
+            <objects>
+                <controller id="iP1-PL-kME">
+                    <items>
+                        <label width="1" height="1" alignment="left" textAlignment="center" numberOfLines="2" id="PeK-ZG-jxb">
+                            <string key="text">YES
+I AM!</string>
+                            <fontDescription key="font" type="boldSystem" pointSize="40"/>
+                        </label>
+                    </items>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="378" y="217"/>
+        </scene>
         <!--Glance Interface Controller-->
         <scene sceneID="rjY-Ar-IMT">
             <objects>
-                <glanceController spacing="0.0" topTemplateType="extraLarge" bottomTemplateType="extraLargeExtraLargeFooter" id="Sv0-Ai-Zie" customClass="GlanceController" customModule="Rich_WatchKit_App" customModuleProvider="target">
+                <glanceController spacing="0.0" topTemplateType="extraLarge" bottomTemplateType="extraLargeExtraLargeFooter" id="Sv0-Ai-Zie" customClass="GlanceController" customModule="RICH_WatchKit_App" customModuleProvider="target">
                     <items>
-                        <label alignment="left" text="I" minimumScaleFactor="0.5" id="dop-CY-Yp7"/>
-                        <label alignment="left" text="AM" minimumScaleFactor="0.5" id="38u-HE-WJQ"/>
-                        <label alignment="left" text="R$CH" minimumScaleFactor="0.5" id="uif-VB-eVd"/>
-                        <label alignment="left" hidden="YES" id="B9P-IF-1Th"/>
+                        <label alignment="left" text="YOU" minimumScaleFactor="0.50000000000000011" id="deg-jn-V1a"/>
+                        <label alignment="left" text="ARE" minimumScaleFactor="0.50000000000000011" id="upv-c1-SdM"/>
+                        <label alignment="left" text="R$CH" minimumScaleFactor="0.50000000000000011" id="YlO-e9-cZQ"/>
+                        <label alignment="left" hidden="YES" text="Footer" id="cay-4K-QHL"/>
                     </items>
                     <edgeInsets key="margins" left="0.0" right="0.0" top="0.0" bottom="14"/>
                 </glanceController>

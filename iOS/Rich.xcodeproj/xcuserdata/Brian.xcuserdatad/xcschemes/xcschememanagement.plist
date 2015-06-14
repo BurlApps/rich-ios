@@ -4,17 +4,17 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Glance - Rich WatchKit App.xcscheme</key>
+		<key>Glance - RICH WatchKit App.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
-		<key>Rich WatchKit App.xcscheme</key>
+		<key>RICH WatchKit App.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
-		<key>Rich.xcscheme</key>
+		<key>RICH.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -43,6 +43,16 @@
 			<true/>
 		</dict>
 		<key>D37197A41B2CE599000BDDA0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D37197FD1B2D04FA000BDDA0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D37198221B2D0562000BDDA0</key>
 		<dict>
 			<key>primary</key>
 			<true/>

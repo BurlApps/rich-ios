@@ -12,13 +12,14 @@
 		D371971C1B2CCDC7000BDDA0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D371971A1B2CCDC7000BDDA0 /* Main.storyboard */; };
 		D371971E1B2CCDC7000BDDA0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D371971D1B2CCDC7000BDDA0 /* Images.xcassets */; };
 		D371972D1B2CCDC7000BDDA0 /* RichTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D371972C1B2CCDC7000BDDA0 /* RichTests.swift */; };
-		D371979E1B2CE599000BDDA0 /* InterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D371979D1B2CE599000BDDA0 /* InterfaceController.swift */; };
-		D37197A01B2CE599000BDDA0 /* GlanceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D371979F1B2CE599000BDDA0 /* GlanceController.swift */; };
-		D37197A21B2CE599000BDDA0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D37197A11B2CE599000BDDA0 /* Images.xcassets */; };
-		D37197A61B2CE59A000BDDA0 /* Rich WatchKit App.app in Resources */ = {isa = PBXBuildFile; fileRef = D37197A51B2CE599000BDDA0 /* Rich WatchKit App.app */; };
-		D37197AE1B2CE59A000BDDA0 /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D37197AC1B2CE59A000BDDA0 /* Interface.storyboard */; };
-		D37197B01B2CE59A000BDDA0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D37197AF1B2CE59A000BDDA0 /* Images.xcassets */; };
-		D37197B31B2CE59A000BDDA0 /* Rich WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = D37197991B2CE599000BDDA0 /* Rich WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		D37198241B2D0562000BDDA0 /* RICH WatchKit App.app in Resources */ = {isa = PBXBuildFile; fileRef = D37198231B2D0562000BDDA0 /* RICH WatchKit App.app */; };
+		D371982C1B2D0562000BDDA0 /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D371982A1B2D0562000BDDA0 /* Interface.storyboard */; };
+		D371982E1B2D0562000BDDA0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D371982D1B2D0562000BDDA0 /* Images.xcassets */; };
+		D37198311B2D0562000BDDA0 /* RICH WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = D37198171B2D0562000BDDA0 /* RICH WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		D371983C1B2D071E000BDDA0 /* GlanceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37198381B2D071E000BDDA0 /* GlanceController.swift */; };
+		D371983D1B2D071E000BDDA0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D37198391B2D071E000BDDA0 /* Images.xcassets */; };
+		D371983E1B2D071E000BDDA0 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D371983A1B2D071E000BDDA0 /* Info.plist */; };
+		D371983F1B2D071E000BDDA0 /* InterfaceController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D371983B1B2D071E000BDDA0 /* InterfaceController.swift */; };
 		D7A4E62D2AFCD818D74C866F /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F9AA1C7F9C6A8A7907984F4 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -30,30 +31,30 @@
 			remoteGlobalIDString = D37197101B2CCDC7000BDDA0;
 			remoteInfo = Rich;
 		};
-		D37197A71B2CE59A000BDDA0 /* PBXContainerItemProxy */ = {
+		D37198251B2D0562000BDDA0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D37197091B2CCDC7000BDDA0 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D37197A41B2CE599000BDDA0;
-			remoteInfo = "Rich WatchKit App";
+			remoteGlobalIDString = D37198221B2D0562000BDDA0;
+			remoteInfo = "RICH WatchKit App";
 		};
-		D37197B11B2CE59A000BDDA0 /* PBXContainerItemProxy */ = {
+		D371982F1B2D0562000BDDA0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D37197091B2CCDC7000BDDA0 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = D37197981B2CE599000BDDA0;
-			remoteInfo = "Rich WatchKit Extension";
+			remoteGlobalIDString = D37198161B2D0562000BDDA0;
+			remoteInfo = "RICH WatchKit Extension";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		D37197641B2CDD30000BDDA0 /* Embed App Extensions */ = {
+		D37197ED1B2D0466000BDDA0 /* Embed App Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				D37197B31B2CE59A000BDDA0 /* Rich WatchKit Extension.appex in Embed App Extensions */,
+				D37198311B2D0562000BDDA0 /* RICH WatchKit Extension.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -63,7 +64,7 @@
 /* Begin PBXFileReference section */
 		9F9AA1C7F9C6A8A7907984F4 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9417DE1D4142A4CC1D0B1E8 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
-		D37197111B2CCDC7000BDDA0 /* Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Rich.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D37197111B2CCDC7000BDDA0 /* RICH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RICH.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D37197151B2CCDC7000BDDA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D37197161B2CCDC7000BDDA0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D37197181B2CCDC7000BDDA0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -74,15 +75,15 @@
 		D371972C1B2CCDC7000BDDA0 /* RichTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RichTests.swift; sourceTree = "<group>"; };
 		D37197371B2CD2F8000BDDA0 /* Rich-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Rich-Bridging-Header.h"; sourceTree = "<group>"; };
 		D371976C1B2CDD4F000BDDA0 /* libPods.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libPods.a; path = "Pods/build/Debug-iphoneos/libPods.a"; sourceTree = "<group>"; };
-		D37197991B2CE599000BDDA0 /* Rich WatchKit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Rich WatchKit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D371979C1B2CE599000BDDA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D371979D1B2CE599000BDDA0 /* InterfaceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterfaceController.swift; sourceTree = "<group>"; };
-		D371979F1B2CE599000BDDA0 /* GlanceController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlanceController.swift; sourceTree = "<group>"; };
-		D37197A11B2CE599000BDDA0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		D37197A51B2CE599000BDDA0 /* Rich WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Rich WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D37197AB1B2CE59A000BDDA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D37197AD1B2CE59A000BDDA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
-		D37197AF1B2CE59A000BDDA0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		D37198171B2D0562000BDDA0 /* RICH WatchKit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "RICH WatchKit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D37198231B2D0562000BDDA0 /* RICH WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RICH WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D37198291B2D0562000BDDA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D371982B1B2D0562000BDDA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
+		D371982D1B2D0562000BDDA0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		D37198381B2D071E000BDDA0 /* GlanceController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GlanceController.swift; path = "RICH WatchKit Extension/GlanceController.swift"; sourceTree = SOURCE_ROOT; };
+		D37198391B2D071E000BDDA0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "RICH WatchKit Extension/Images.xcassets"; sourceTree = SOURCE_ROOT; };
+		D371983A1B2D071E000BDDA0 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "RICH WatchKit Extension/Info.plist"; sourceTree = SOURCE_ROOT; };
+		D371983B1B2D071E000BDDA0 /* InterfaceController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = InterfaceController.swift; path = "RICH WatchKit Extension/InterfaceController.swift"; sourceTree = SOURCE_ROOT; };
 		DB37E94CC582F88DA5A11C0D /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -102,7 +103,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D37197961B2CE599000BDDA0 /* Frameworks */ = {
+		D37198141B2D0562000BDDA0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -117,8 +118,8 @@
 			children = (
 				D37197131B2CCDC7000BDDA0 /* Rich */,
 				D37197291B2CCDC7000BDDA0 /* RichTests */,
-				D371979A1B2CE599000BDDA0 /* Rich WatchKit Extension */,
-				D37197A91B2CE59A000BDDA0 /* Rich WatchKit App */,
+				D37198401B2D0735000BDDA0 /* RICH WatchKit Extension */,
+				D37198271B2D0562000BDDA0 /* RICH WatchKit App */,
 				D37197121B2CCDC7000BDDA0 /* Products */,
 				E753E7C84AD4E28D27A89534 /* Pods */,
 				D619267C181B1A218E20FBC8 /* Frameworks */,
@@ -128,10 +129,10 @@
 		D37197121B2CCDC7000BDDA0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D37197111B2CCDC7000BDDA0 /* Rich.app */,
+				D37197111B2CCDC7000BDDA0 /* RICH.app */,
 				D37197261B2CCDC7000BDDA0 /* RichTests.xctest */,
-				D37197991B2CE599000BDDA0 /* Rich WatchKit Extension.appex */,
-				D37197A51B2CE599000BDDA0 /* Rich WatchKit App.app */,
+				D37198171B2D0562000BDDA0 /* RICH WatchKit Extension.appex */,
+				D37198231B2D0562000BDDA0 /* RICH WatchKit App.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -174,41 +175,34 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		D371979A1B2CE599000BDDA0 /* Rich WatchKit Extension */ = {
+		D37198271B2D0562000BDDA0 /* RICH WatchKit App */ = {
 			isa = PBXGroup;
 			children = (
-				D371979D1B2CE599000BDDA0 /* InterfaceController.swift */,
-				D371979F1B2CE599000BDDA0 /* GlanceController.swift */,
-				D37197A11B2CE599000BDDA0 /* Images.xcassets */,
-				D371979B1B2CE599000BDDA0 /* Supporting Files */,
+				D371982A1B2D0562000BDDA0 /* Interface.storyboard */,
+				D371982D1B2D0562000BDDA0 /* Images.xcassets */,
+				D37198281B2D0562000BDDA0 /* Supporting Files */,
 			);
-			path = "Rich WatchKit Extension";
+			path = "RICH WatchKit App";
 			sourceTree = "<group>";
 		};
-		D371979B1B2CE599000BDDA0 /* Supporting Files */ = {
+		D37198281B2D0562000BDDA0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				D371979C1B2CE599000BDDA0 /* Info.plist */,
+				D37198291B2D0562000BDDA0 /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		D37197A91B2CE59A000BDDA0 /* Rich WatchKit App */ = {
+		D37198401B2D0735000BDDA0 /* RICH WatchKit Extension */ = {
 			isa = PBXGroup;
 			children = (
-				D37197AC1B2CE59A000BDDA0 /* Interface.storyboard */,
-				D37197AF1B2CE59A000BDDA0 /* Images.xcassets */,
-				D37197AA1B2CE59A000BDDA0 /* Supporting Files */,
+				D37198381B2D071E000BDDA0 /* GlanceController.swift */,
+				D37198391B2D071E000BDDA0 /* Images.xcassets */,
+				D371983A1B2D071E000BDDA0 /* Info.plist */,
+				D371983B1B2D071E000BDDA0 /* InterfaceController.swift */,
 			);
-			path = "Rich WatchKit App";
-			sourceTree = "<group>";
-		};
-		D37197AA1B2CE59A000BDDA0 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				D37197AB1B2CE59A000BDDA0 /* Info.plist */,
-			);
-			name = "Supporting Files";
+			name = "RICH WatchKit Extension";
+			path = RichTests;
 			sourceTree = "<group>";
 		};
 		D619267C181B1A218E20FBC8 /* Frameworks */ = {
@@ -241,16 +235,16 @@
 				D371970E1B2CCDC7000BDDA0 /* Frameworks */,
 				D371970F1B2CCDC7000BDDA0 /* Resources */,
 				7AB86AF5924835FA36FD8464 /* Copy Pods Resources */,
-				D37197641B2CDD30000BDDA0 /* Embed App Extensions */,
+				D37197ED1B2D0466000BDDA0 /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				D37197B21B2CE59A000BDDA0 /* PBXTargetDependency */,
+				D37198301B2D0562000BDDA0 /* PBXTargetDependency */,
 			);
 			name = Rich;
 			productName = Rich;
-			productReference = D37197111B2CCDC7000BDDA0 /* Rich.app */;
+			productReference = D37197111B2CCDC7000BDDA0 /* RICH.app */;
 			productType = "com.apple.product-type.application";
 		};
 		D37197251B2CCDC7000BDDA0 /* RichTests */ = {
@@ -271,37 +265,37 @@
 			productReference = D37197261B2CCDC7000BDDA0 /* RichTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		D37197981B2CE599000BDDA0 /* Rich WatchKit Extension */ = {
+		D37198161B2D0562000BDDA0 /* RICH WatchKit Extension */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D37197B71B2CE59A000BDDA0 /* Build configuration list for PBXNativeTarget "Rich WatchKit Extension" */;
+			buildConfigurationList = D37198351B2D0562000BDDA0 /* Build configuration list for PBXNativeTarget "RICH WatchKit Extension" */;
 			buildPhases = (
-				D37197951B2CE599000BDDA0 /* Sources */,
-				D37197961B2CE599000BDDA0 /* Frameworks */,
-				D37197971B2CE599000BDDA0 /* Resources */,
+				D37198131B2D0562000BDDA0 /* Sources */,
+				D37198141B2D0562000BDDA0 /* Frameworks */,
+				D37198151B2D0562000BDDA0 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				D37197A81B2CE59A000BDDA0 /* PBXTargetDependency */,
+				D37198261B2D0562000BDDA0 /* PBXTargetDependency */,
 			);
-			name = "Rich WatchKit Extension";
-			productName = "Rich WatchKit Extension";
-			productReference = D37197991B2CE599000BDDA0 /* Rich WatchKit Extension.appex */;
+			name = "RICH WatchKit Extension";
+			productName = "RICH WatchKit Extension";
+			productReference = D37198171B2D0562000BDDA0 /* RICH WatchKit Extension.appex */;
 			productType = "com.apple.product-type.watchkit-extension";
 		};
-		D37197A41B2CE599000BDDA0 /* Rich WatchKit App */ = {
+		D37198221B2D0562000BDDA0 /* RICH WatchKit App */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D37197B41B2CE59A000BDDA0 /* Build configuration list for PBXNativeTarget "Rich WatchKit App" */;
+			buildConfigurationList = D37198321B2D0562000BDDA0 /* Build configuration list for PBXNativeTarget "RICH WatchKit App" */;
 			buildPhases = (
-				D37197A31B2CE599000BDDA0 /* Resources */,
+				D37198211B2D0562000BDDA0 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Rich WatchKit App";
-			productName = "Rich WatchKit App";
-			productReference = D37197A51B2CE599000BDDA0 /* Rich WatchKit App.app */;
+			name = "RICH WatchKit App";
+			productName = "RICH WatchKit App";
+			productReference = D37198231B2D0562000BDDA0 /* RICH WatchKit App.app */;
 			productType = "com.apple.product-type.application.watchapp";
 		};
 /* End PBXNativeTarget section */
@@ -321,13 +315,12 @@
 						CreatedOnToolsVersion = 6.3.2;
 						TestTargetID = D37197101B2CCDC7000BDDA0;
 					};
-					D37197981B2CE599000BDDA0 = {
+					D37198161B2D0562000BDDA0 = {
 						CreatedOnToolsVersion = 6.3.2;
 						DevelopmentTeam = R5K2X99B7E;
 					};
-					D37197A41B2CE599000BDDA0 = {
+					D37198221B2D0562000BDDA0 = {
 						CreatedOnToolsVersion = 6.3.2;
-						DevelopmentTeam = R5K2X99B7E;
 					};
 				};
 			};
@@ -346,8 +339,8 @@
 			targets = (
 				D37197101B2CCDC7000BDDA0 /* Rich */,
 				D37197251B2CCDC7000BDDA0 /* RichTests */,
-				D37197981B2CE599000BDDA0 /* Rich WatchKit Extension */,
-				D37197A41B2CE599000BDDA0 /* Rich WatchKit App */,
+				D37198161B2D0562000BDDA0 /* RICH WatchKit Extension */,
+				D37198221B2D0562000BDDA0 /* RICH WatchKit App */,
 			);
 		};
 /* End PBXProject section */
@@ -369,21 +362,22 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D37197971B2CE599000BDDA0 /* Resources */ = {
+		D37198151B2D0562000BDDA0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D37197A61B2CE59A000BDDA0 /* Rich WatchKit App.app in Resources */,
-				D37197A21B2CE599000BDDA0 /* Images.xcassets in Resources */,
+				D37198241B2D0562000BDDA0 /* RICH WatchKit App.app in Resources */,
+				D371983D1B2D071E000BDDA0 /* Images.xcassets in Resources */,
+				D371983E1B2D071E000BDDA0 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D37197A31B2CE599000BDDA0 /* Resources */ = {
+		D37198211B2D0562000BDDA0 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D37197AE1B2CE59A000BDDA0 /* Interface.storyboard in Resources */,
-				D37197B01B2CE59A000BDDA0 /* Images.xcassets in Resources */,
+				D371982C1B2D0562000BDDA0 /* Interface.storyboard in Resources */,
+				D371982E1B2D0562000BDDA0 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -440,12 +434,12 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D37197951B2CE599000BDDA0 /* Sources */ = {
+		D37198131B2D0562000BDDA0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D371979E1B2CE599000BDDA0 /* InterfaceController.swift in Sources */,
-				D37197A01B2CE599000BDDA0 /* GlanceController.swift in Sources */,
+				D371983C1B2D071E000BDDA0 /* GlanceController.swift in Sources */,
+				D371983F1B2D071E000BDDA0 /* InterfaceController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -457,15 +451,15 @@
 			target = D37197101B2CCDC7000BDDA0 /* Rich */;
 			targetProxy = D37197271B2CCDC7000BDDA0 /* PBXContainerItemProxy */;
 		};
-		D37197A81B2CE59A000BDDA0 /* PBXTargetDependency */ = {
+		D37198261B2D0562000BDDA0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D37197A41B2CE599000BDDA0 /* Rich WatchKit App */;
-			targetProxy = D37197A71B2CE59A000BDDA0 /* PBXContainerItemProxy */;
+			target = D37198221B2D0562000BDDA0 /* RICH WatchKit App */;
+			targetProxy = D37198251B2D0562000BDDA0 /* PBXContainerItemProxy */;
 		};
-		D37197B21B2CE59A000BDDA0 /* PBXTargetDependency */ = {
+		D37198301B2D0562000BDDA0 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = D37197981B2CE599000BDDA0 /* Rich WatchKit Extension */;
-			targetProxy = D37197B11B2CE59A000BDDA0 /* PBXContainerItemProxy */;
+			target = D37198161B2D0562000BDDA0 /* RICH WatchKit Extension */;
+			targetProxy = D371982F1B2D0562000BDDA0 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -478,10 +472,10 @@
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		D37197AC1B2CE59A000BDDA0 /* Interface.storyboard */ = {
+		D371982A1B2D0562000BDDA0 /* Interface.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D37197AD1B2CE59A000BDDA0 /* Base */,
+				D371982B1B2D0562000BDDA0 /* Base */,
 			);
 			name = Interface.storyboard;
 			sourceTree = "<group>";
@@ -580,7 +574,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Rich/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = RICH;
 				SWIFT_OBJC_BRIDGING_HEADER = "Rich/Rich-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
@@ -596,7 +590,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Rich/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = RICH;
 				SWIFT_OBJC_BRIDGING_HEADER = "Rich/Rich-Bridging-Header.h";
 			};
 			name = Release;
@@ -635,17 +629,16 @@
 			};
 			name = Release;
 		};
-		D37197B51B2CE59A000BDDA0 /* Debug */ = {
+		D37198331B2D0562000BDDA0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				IBSC_MODULE = Rich_WatchKit_Extension;
-				INFOPLIST_FILE = "Rich WatchKit App/Info.plist";
+				IBSC_MODULE = RICH_WatchKit_Extension;
+				INFOPLIST_FILE = "RICH WatchKit App/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -654,13 +647,12 @@
 			};
 			name = Debug;
 		};
-		D37197B61B2CE59A000BDDA0 /* Release */ = {
+		D37198341B2D0562000BDDA0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				IBSC_MODULE = Rich_WatchKit_Extension;
-				INFOPLIST_FILE = "Rich WatchKit App/Info.plist";
+				IBSC_MODULE = RICH_WatchKit_Extension;
+				INFOPLIST_FILE = "RICH WatchKit App/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -669,7 +661,7 @@
 			};
 			name = Release;
 		};
-		D37197B81B2CE59A000BDDA0 /* Debug */ = {
+		D37198361B2D0562000BDDA0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
@@ -677,18 +669,18 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "Rich WatchKit Extension/Info.plist";
+				INFOPLIST_FILE = "RICH WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_NAME = "${TARGET_NAME}";
 				SKIP_INSTALL = YES;
 			};
 			name = Debug;
 		};
-		D37197B91B2CE59A000BDDA0 /* Release */ = {
+		D37198371B2D0562000BDDA0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				INFOPLIST_FILE = "Rich WatchKit Extension/Info.plist";
+				INFOPLIST_FILE = "RICH WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_NAME = "${TARGET_NAME}";
 				SKIP_INSTALL = YES;
@@ -725,23 +717,21 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D37197B41B2CE59A000BDDA0 /* Build configuration list for PBXNativeTarget "Rich WatchKit App" */ = {
+		D37198321B2D0562000BDDA0 /* Build configuration list for PBXNativeTarget "RICH WatchKit App" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D37197B51B2CE59A000BDDA0 /* Debug */,
-				D37197B61B2CE59A000BDDA0 /* Release */,
+				D37198331B2D0562000BDDA0 /* Debug */,
+				D37198341B2D0562000BDDA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
-		D37197B71B2CE59A000BDDA0 /* Build configuration list for PBXNativeTarget "Rich WatchKit Extension" */ = {
+		D37198351B2D0562000BDDA0 /* Build configuration list for PBXNativeTarget "RICH WatchKit Extension" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D37197B81B2CE59A000BDDA0 /* Debug */,
-				D37197B91B2CE59A000BDDA0 /* Release */,
+				D37198361B2D0562000BDDA0 /* Debug */,
+				D37198371B2D0562000BDDA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

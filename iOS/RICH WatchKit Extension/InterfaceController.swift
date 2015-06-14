@@ -12,6 +12,9 @@ import Foundation
 
 class InterfaceController: WKInterfaceController {
 
+    
+    @IBOutlet weak var shimmer: WKInterfaceImage!
+    
     override func awakeWithContext(context: AnyObject?) {
         super.awakeWithContext(context)
         
@@ -21,6 +24,9 @@ class InterfaceController: WKInterfaceController {
     override func willActivate() {
         // This method is called when watch view controller is about to be visible to user
         super.willActivate()
+        
+        self.shimmer.setImageNamed("shimmerAffect-")
+        self.shimmer.startAnimatingWithImagesInRange(NSMakeRange(0, 131), duration: 2.5, repeatCount: 0)
     }
 
     override func didDeactivate() {

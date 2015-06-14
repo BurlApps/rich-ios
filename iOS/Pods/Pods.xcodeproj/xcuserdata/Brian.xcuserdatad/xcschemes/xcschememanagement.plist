@@ -9,24 +9,24 @@
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>1</integer>
 		</dict>
 		<key>Pods.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>A1959DC885B97167C14BCB12</key>
+		<key>979B11ED5A34DEA08F8BFA1D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>FC9FE73B6D2BA4607EA18725</key>
+		<key>E48CF7E7E3F28C589C41023E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

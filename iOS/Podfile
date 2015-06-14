@@ -1,1 +1,2 @@
+link_with 'RICH', 'RICH Record'
 pod 'Shimmer', '~> 1.0'

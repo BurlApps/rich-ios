@@ -7,17 +7,22 @@
 		<key>Glance - RICH WatchKit App.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>4</integer>
+			<integer>5</integer>
 		</dict>
-		<key>RICH WatchKit App.xcscheme</key>
+		<key>RICH Record.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
+		<key>RICH WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>RICH.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>2</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
@@ -53,6 +58,26 @@
 			<true/>
 		</dict>
 		<key>D37198221B2D0562000BDDA0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D37198441B2D2953000BDDA0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D37198581B2D2953000BDDA0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D371986A1B2D2A1A000BDDA0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D371987E1B2D2A1B000BDDA0</key>
 		<dict>
 			<key>primary</key>
 			<true/>

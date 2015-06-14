@@ -17,7 +17,7 @@
                BlueprintIdentifier = "D37198221B2D0562000BDDA0"
                BuildableName = "RICH WatchKit App.app"
                BlueprintName = "RICH WatchKit App"
-               ReferencedContainer = "container:Rich.xcodeproj">
+               ReferencedContainer = "container:RICH.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -30,8 +30,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D37197101B2CCDC7000BDDA0"
                BuildableName = "RICH.app"
-               BlueprintName = "Rich"
-               ReferencedContainer = "container:Rich.xcodeproj">
+               BlueprintName = "RICH"
+               ReferencedContainer = "container:RICH.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -45,7 +45,7 @@
                BlueprintIdentifier = "D37198161B2D0562000BDDA0"
                BuildableName = "RICH WatchKit Extension.appex"
                BlueprintName = "RICH WatchKit Extension"
-               ReferencedContainer = "container:Rich.xcodeproj">
+               ReferencedContainer = "container:RICH.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -63,7 +63,7 @@
             BlueprintIdentifier = "D37198221B2D0562000BDDA0"
             BuildableName = "RICH WatchKit App.app"
             BlueprintName = "RICH WatchKit App"
-            ReferencedContainer = "container:Rich.xcodeproj">
+            ReferencedContainer = "container:RICH.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -80,13 +80,13 @@
       <RemoteRunnable
          runnableDebuggingMode = "2"
          BundleIdentifier = "com.apple.springboard"
-         RemotePath = "/RICH">
+         RemotePath = "/TOO R$CH">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D37198221B2D0562000BDDA0"
             BuildableName = "RICH WatchKit App.app"
             BlueprintName = "RICH WatchKit App"
-            ReferencedContainer = "container:Rich.xcodeproj">
+            ReferencedContainer = "container:RICH.xcodeproj">
          </BuildableReference>
       </RemoteRunnable>
       <MacroExpansion>
@@ -95,7 +95,7 @@
             BlueprintIdentifier = "D37198221B2D0562000BDDA0"
             BuildableName = "RICH WatchKit App.app"
             BlueprintName = "RICH WatchKit App"
-            ReferencedContainer = "container:Rich.xcodeproj">
+            ReferencedContainer = "container:RICH.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -111,13 +111,13 @@
       <RemoteRunnable
          runnableDebuggingMode = "2"
          BundleIdentifier = "com.apple.springboard"
-         RemotePath = "/RICH">
+         RemotePath = "/TOO R$CH">
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D37198221B2D0562000BDDA0"
             BuildableName = "RICH WatchKit App.app"
             BlueprintName = "RICH WatchKit App"
-            ReferencedContainer = "container:Rich.xcodeproj">
+            ReferencedContainer = "container:RICH.xcodeproj">
          </BuildableReference>
       </RemoteRunnable>
       <MacroExpansion>
@@ -126,7 +126,7 @@
             BlueprintIdentifier = "D37198221B2D0562000BDDA0"
             BuildableName = "RICH WatchKit App.app"
             BlueprintName = "RICH WatchKit App"
-            ReferencedContainer = "container:Rich.xcodeproj">
+            ReferencedContainer = "container:RICH.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

@@ -16,22 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "D37197101B2CCDC7000BDDA0"
                BuildableName = "RICH.app"
-               BlueprintName = "Rich"
-               ReferencedContainer = "container:Rich.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D37197251B2CCDC7000BDDA0"
-               BuildableName = "RichTests.xctest"
-               BlueprintName = "RichTests"
-               ReferencedContainer = "container:Rich.xcodeproj">
+               BlueprintName = "RICH"
+               ReferencedContainer = "container:RICH.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -42,24 +28,14 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D37197251B2CCDC7000BDDA0"
-               BuildableName = "RichTests.xctest"
-               BlueprintName = "RichTests"
-               ReferencedContainer = "container:Rich.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D37197101B2CCDC7000BDDA0"
             BuildableName = "RICH.app"
-            BlueprintName = "Rich"
-            ReferencedContainer = "container:Rich.xcodeproj">
+            BlueprintName = "RICH"
+            ReferencedContainer = "container:RICH.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -78,8 +54,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D37197101B2CCDC7000BDDA0"
             BuildableName = "RICH.app"
-            BlueprintName = "Rich"
-            ReferencedContainer = "container:Rich.xcodeproj">
+            BlueprintName = "RICH"
+            ReferencedContainer = "container:RICH.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -97,8 +73,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "D37197101B2CCDC7000BDDA0"
             BuildableName = "RICH.app"
-            BlueprintName = "Rich"
-            ReferencedContainer = "container:Rich.xcodeproj">
+            BlueprintName = "RICH"
+            ReferencedContainer = "container:RICH.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -724,6 +724,7 @@
 				D37198341B2D0562000BDDA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D37198351B2D0562000BDDA0 /* Build configuration list for PBXNativeTarget "RICH WatchKit Extension" */ = {
 			isa = XCConfigurationList;
@@ -732,6 +733,7 @@
 				D37198371B2D0562000BDDA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
